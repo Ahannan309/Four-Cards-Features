@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    /* background-color: hsl(0, 0%, 98%); */
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+
+
+}
+
+h1 {
+    text-align: center;
+    line-height: 0.8;
+    font-size: 32px;
+
+}
+
+h3 {
+    color:  hsl(234, 12%, 34%);
+    margin-bottom: 10px;
+    font-size: 20px;
+
+}
+
+P {
+    color: hsl(229, 6%, 66%);
+    margin-bottom: 50px;
+}
+
+
+img {
+    position: relative;
+    left: 220px;
+} 
+
+.header {
+    margin-top: 0px;
+}
+
+.heading {
+    color: hsl(229, 6%, 66%);
+    font-weight: 200;
+}
+
+.main-heading {
+    color:  hsl(234, 12%, 34%);
+    margin-bottom:25px ;
+}
+
+.header-intro {
+    width: 32%;
+    margin: auto;
+    text-align: center;
+    color: hsl(229, 6%, 66%);
+    /* padding-top: 10px; */
+}
+
+.supervisor {
+    box-shadow: 1px 9px 13px 0px hsl(212, 31%, 84%);
+    border-top: 5px solid hsl(180, 62%, 55%);
+    box-sizing: border-box;
+    height: 250px;
+    width: 350px;
+    border-radius: 10px;
+    padding: 10px 30px 20px;
+    position: absolute;
+    left: 250px;
+    top: 145px;
+    
+}
+
+.team-builder {
+    box-sizing: border-box;
+    height: 250px;
+    width: 350px;
+    border-radius: 10px;
+    padding: 10px 30px 20px;
+    margin: 0 auto 25px;
+    box-shadow: 1px 9px 13px 0px hsl(212, 31%, 84%);
+    border-top: 5px solid hsl(0, 78%, 62%);
+}
+
+.karma {
+    box-sizing: border-box;
+    height: 250px;
+    width: 350px;
+    border-radius: 10px;
+    padding: 10px 30px 20px;
+    margin: 20px auto 10px;
+    box-shadow: 1px 9px 13px 0px hsl(212, 31%, 84%);
+    border-top: 5px solid hsl(34, 97%, 64%);
+}
+
+.calculator {
+    box-shadow: 1px 9px 13px 0px hsl(212, 31%, 84%);
+    border-top: 5px solid hsl(212, 86%, 64%);
+    box-sizing: border-box;
+    height: 250px;
+    width: 350px;
+    border-radius: 10px;
+    padding: 10px 30px 20px;
+    position: absolute;
+    right: 250px;
+    top: 145px;
+  }
+
+.div-content {
+    font-size: 13px;
+    margin-top: 0;
+}
+
+.four-cards {
+    position: relative;
+    padding-top:10px ;
+}
+
+.attribution {
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    margin: 0;
+}
