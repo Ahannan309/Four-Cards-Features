@@ -7,6 +7,10 @@ body {
 
 }
 
+a{
+    text-decoration: none;
+}
+
 h1 {
     text-align: center;
     line-height: 0.8;
@@ -115,7 +119,7 @@ img {
 
 .attribution {
     position: absolute;
-    right: 5px;
+    right: 10px;
     bottom: 5px;
     margin: 0;
 }
